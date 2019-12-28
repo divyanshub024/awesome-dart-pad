@@ -24,6 +24,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 ## Flutter Samples
 
  - [Tic-Tac-Toe Game](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752)
+ 
  [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/tic-tac-toe.gif" width=240>](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752)
 
 
