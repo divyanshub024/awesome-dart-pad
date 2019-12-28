@@ -8,3 +8,20 @@
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-54379-brightgreen.svg" />
   </a>
 </p>
+
+## About 
+A curated list of awesome Flutter Dart Pad samples.
+
+DartPad is an open-source tool that lets you play with the Dart language in any modern browser. To get a DartPad, go to the [DartPad site](https://dartpad.dev/)
+
+If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+
+## Content
+ - [Flutter Samples](#flutter-samples)
+ - [Dart Samples](#dart-samples)
+
+ 
+## Flutter Samples
+
+
+## Dart Samples
