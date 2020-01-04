@@ -7,6 +7,9 @@
   <a href="https://github.com/search?q=flutter+language%3Adart&type=Repositories">
     <img alt="Github Repositories" src="https://img.shields.io/badge/Repos-54379-brightgreen.svg" />
   </a>
+  <a href="https://github.com/dart-lang/dart-pad">
+    <img alt="DartPad" src="http://githubbadges.com/star.svg?user=dart-lang&repo=dart-pad" />
+  </a>
 </p>
 
 ## About 
