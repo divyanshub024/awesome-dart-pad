@@ -23,11 +23,11 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
 ## Flutter Samples
 
- - [Tic-Tac-Toe Game](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752)
+ - [Tic-Tac-Toe Game](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752) by [Divyanshu Bhargava](https://github.com/divyanshub024) (25/12/2019)
  
  [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/tic-tac-toe.gif" width=240>](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752)
  
-  - [Circular wave canvas animation](https://dartpad.dev/62a136be30c44fb95db692117a0f6c6a)
+  - [Circular wave canvas animation](https://dartpad.dev/62a136be30c44fb95db692117a0f6c6a) by [Divyanshu Bhargava](https://github.com/divyanshub024) (29/12/2019)
  
  [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/circular_wave_animation.gif" width=240>](https://dartpad.dev/62a136be30c44fb95db692117a0f6c6a)
 
