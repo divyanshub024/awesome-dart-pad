@@ -41,5 +41,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  - [Flutter Piano](https://dartpad.dev/8cb7652d9c05650c599a0610523266ca) by [Rody Davis](https://github.com/rodydavis) (12/01/2020)
  
   [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/flutter_piano.png" width=240>](https://dartpad.dev/8cb7652d9c05650c599a0610523266ca)
+ - [Image Blur App](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (27/02/2020)
+ 
+  [<img src="https://github.com/AlphaArtrem/awesome-dart-pad/blob/master/art/blur_app.png" width=240>](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c)
 
 ## Dart Samples
