@@ -48,6 +48,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   - [Animals Heads-Up](https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135) by [Jaideep Prasad](https://github.com/jddeep)
   (28/02/2020)
   
-  <img src="/art/animals-heads-up.gif" />
+  [<img src="/art/animals-heads-up.gif" width=240>]
+(https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135)
 
 ## Dart Samples
