@@ -44,5 +44,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  - [Image Blur App](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (27/02/2020)
  
   [<img src="https://github.com/AlphaArtrem/awesome-dart-pad/blob/master/art/blur_app.png" width=240>](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c)
+  
+  - [Dynamic Portfolio App](https://github.com/jayanthj737/Flutter-Portfolio-App) by [Jayanth Jayadevan](https://github.com/jayanthj737) (28/02/2020)
+ 
+  [<img src='https://github.com/jayanthj737/Flutter-Portfolio-App/blob/master/Record.gif' height=300>](https://gist.github.com/jayanthj737/53fe98f3984e8b70dcfd0c784653e5fb)
 
 ## Dart Samples
