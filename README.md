@@ -44,5 +44,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  - [Image Blur App](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (27/02/2020)
  
   [<img src="https://github.com/AlphaArtrem/awesome-dart-pad/blob/master/art/blur_app.png" width=240>](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c)
+  - [Transform Shapes App](https://dartpad.dev/3dc4b782c794d95a807e614704b11ac3) by [Ayush Kumar Shaw](https://github.com/aksayushx) (2/03/2020)
+  
+  [<img src="https://github.com/aksayushx/awesome-dart-pad/blob/master/art/demoApp.png" width=240>](https://dartpad.dev/3dc4b782c794d95a807e614704b11ac3)
+  
 
 ## Dart Samples
