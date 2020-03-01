@@ -44,5 +44,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  - [Image Blur App](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (27/02/2020)
  
   [<img src="https://github.com/AlphaArtrem/awesome-dart-pad/blob/master/art/blur_app.png" width=240>](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c)
+  - [Conditional Background App](https://dartpad.dev/5114dd72544640d0ae0ba0cb6a9e7fe7) by [Isha Agarwal](https://github.com/cbLife98) (01/03/2020)
+ 
+  [<img src="https://github.com/cbLife98/sampleBackgroundColor/blob/master/sample/condition_background.PNG" width=240>](https://dartpad.dev/5114dd72544640d0ae0ba0cb6a9e7fe7)
+
 
 ## Dart Samples
