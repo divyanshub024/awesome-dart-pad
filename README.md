@@ -44,5 +44,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  - [Image Blur App](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (27/02/2020)
  
   [<img src="https://github.com/AlphaArtrem/awesome-dart-pad/blob/master/art/blur_app.png" width=240>](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c)
+  
+  - [Animals Heads-Up](https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135) by [Jaideep Prasad](https://github.com/jddeep)
+  (28/02/2020)
+  
+  [<img src="/art/animals-heads-up.gif" width=240>](https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135)
 
 ## Dart Samples
