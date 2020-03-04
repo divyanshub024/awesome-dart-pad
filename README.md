@@ -49,5 +49,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   (28/02/2020)
   
   [<img src="/art/animals-heads-up.gif" width=240>](https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135)
+  
+  - [Simple Calculator](https://dartpad.dev/a7fa64487d04a0314312d9064b889335) by [Govind Dixit](https://github.com/GOVINDDIXIT) (04/03/2020)
+
+  [<img src="/art/simple_calculator.gif" width=240>](https://dartpad.dev/a7fa64487d04a0314312d9064b889335)
 
 ## Dart Samples
