@@ -50,4 +50,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/animals-heads-up.gif" width=240>](https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135)
 
+  - [Slivers Animation List](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463) by [Ayan Goel](https://github.com/GAyan17)
+
 ## Dart Samples
