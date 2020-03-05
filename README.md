@@ -52,4 +52,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   - [Slivers Animation List](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463) by [Ayan Goel](https://github.com/GAyan17)
 
+  [<img src="/art/slivers_animation.gif" width=240>](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463)
+
 ## Dart Samples
