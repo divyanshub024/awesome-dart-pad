@@ -53,5 +53,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   - [Simple Calculator](https://dartpad.dev/a7fa64487d04a0314312d9064b889335) by [Govind Dixit](https://github.com/GOVINDDIXIT) (04/03/2020)
 
   [<img src="/art/simple_calculator.gif" width=240>](https://dartpad.dev/a7fa64487d04a0314312d9064b889335)
+  
+  - [Fluttery Bubbles](https://dartpad.dev/a71747cfd7affd83480448922e3beb4b) by [Jaideep Prasad](https://github.com/jddeep)
+  (06/03/2020)
+  
+  [<img src="/art/fluttery_bubbles.gif" width=240>](https://dartpad.dev/a71747cfd7affd83480448922e3beb4b)
 
 ## Dart Samples
