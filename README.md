@@ -61,9 +61,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src="/art/slivers_animation.gif" width=240>](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463)
 
-[Sine curve demonstration App]
-Dartpad:
+[img src="https://user-images.githubusercontent.com/60287642/76142880-bb8fab00-6026-11ea-8522-81fb15f9ff43.gif" width=240>
+
 (https://dartpad.dev/c3a5cdc38c9bbb2c65eac574435996ec)
-by [Farheen khan] (https://github.com/farheen21)
-![3rpu06](https://user-images.githubusercontent.com/60287642/76142880-bb8fab00-6026-11ea-8522-81fb15f9ff43.gif)
+
+[Sine curve demonstration App] Dartpad:(https://dartpad.dev/c3a5cdc38c9bbb2c65eac574435996ec) by [Farheen khan] (https://github.com/farheen21)
+
 ## Dart Samples
