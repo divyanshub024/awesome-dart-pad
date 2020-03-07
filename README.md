@@ -58,4 +58,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src="/art/slivers_animation.gif" width=240>](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463)
 
+ - [Animated Flutter App](https://dartpad.dev/acf135881e0353fa5937fda700369232) by [Ayush Kumar Shaw](https://github.com/aksayushx) (07/03/2020)
+ 
+ [<img src="/art/animated_flutter.png" width=240>](https://dartpad.dev/acf135881e0353fa5937fda700369232)
 ## Dart Samples
