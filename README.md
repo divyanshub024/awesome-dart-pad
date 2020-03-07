@@ -1,6 +1,3 @@
-
-
-=======
 <img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/banner.png" />
 
 <p align="center">
