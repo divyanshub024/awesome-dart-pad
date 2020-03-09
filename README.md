@@ -58,7 +58,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src="/art/slivers_animation.gif" width=240>](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463)
 
-  - [Wrap Widget Demo](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac) by [Aadarsh Patel](https://github.com/aadarsh-patel)
+  - [Wrap Widget Demo](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac) by [Aadarsh Patel](https://github.com/aadarsh-patel) (07/03/2020)
 
   [<img src="/art/wrap_widget_demo.gif" width=240>](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac)
 
