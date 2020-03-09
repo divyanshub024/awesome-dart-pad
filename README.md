@@ -58,7 +58,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src="/art/slivers_animation.gif" width=240>](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463)
   
-  - [Matching the Pictures Game](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f) by [Sanskar Tiwari](https://github.com/theindianappguy) (07/03/2020)
+  - [Matching the Pictures Game](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f) by [Sanskar Tiwari](https://github.com/theindianappguy) (09/03/2020)
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
 
