@@ -58,7 +58,12 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src="/art/slivers_animation.gif" width=240>](https://dartpad.dev/6d378cf55da2b19fdcb3682ea2a69463)
   
-  - [Matching the Pictures Game](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f) by [Sanskar Tiwari](https://github.com/theindianappguy) (09/03/2020)
+
+ - [Sine Curve Demonstration App](https://dartpad.dev/c3a5cdc38c9bbb2c65eac574435996ec) by [Farheen khan](https://github.com/farheen21)
+
+[<img src="https://user-images.githubusercontent.com/60287642/76142880-bb8fab00-6026-11ea-8522-81fb15f9ff43.gif" width=240>]
+
+- [Matching the Pictures Game](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f) by [Sanskar Tiwari](https://github.com/theindianappguy) (09/03/2020)
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
 
