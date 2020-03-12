@@ -66,4 +66,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src = "https://github.com/OmiWakode/awesome-dart-pad/blob/master/art/BreatheRotate.gif">](https://dartpad.dev/14e84dd83f14c9df47971761463bb474)
 
+  - [Wrap Widget Demo](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac) by [Aadarsh Patel](https://github.com/aadarsh-patel) (07/03/2020)
+
+  [<img src="/art/wrap_widget_demo.gif" width=240>](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac)
+
 ## Dart Samples
