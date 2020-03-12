@@ -62,4 +62,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 [<img src="https://user-images.githubusercontent.com/60287642/76142880-bb8fab00-6026-11ea-8522-81fb15f9ff43.gif" width=240>]
 
+ - [Breathing Rotating Animation](https://dartpad.dev/14e84dd83f14c9df47971761463bb474) by [Omi Wakode](https://github.com/OmiWakode)
+  
+  [<img src = "https://github.com/OmiWakode/awesome-dart-pad/blob/master/art/BreatheRotate.gif">](https://dartpad.dev/14e84dd83f14c9df47971761463bb474)
+
 ## Dart Samples
