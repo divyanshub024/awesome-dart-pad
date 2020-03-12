@@ -62,4 +62,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 [<img src="https://user-images.githubusercontent.com/60287642/76142880-bb8fab00-6026-11ea-8522-81fb15f9ff43.gif" width=240>]
 
+  - [Wrap Widget Demo](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac) by [Aadarsh Patel](https://github.com/aadarsh-patel) (07/03/2020)
+
+  [<img src="/art/wrap_widget_demo.gif" width=240>](https://dartpad.dev/a8ab2ee244c84c1f8713ebed0246acac)
+
 ## Dart Samples
