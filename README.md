@@ -75,8 +75,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
   
-- [Quizzler App](https://gist.github.com/alishashaw439/93387eee1891ffb02e435a7ce0a77730) by [Alisha Shaw](https://github.com/alishashaw439) (16/03/2020)
-  
+- [Quizzler App](https://dartpad.dev/93387eee1891ffb02e435a7ce0a77730) by [Alisha Shaw](https://github.com/alishashaw439) (16/03/2020)
+
+  [<img src = "https://user-images.githubusercontent.com/43449528/76777211-de138800-67cd-11ea-8228-f4af25ce8c5d.gif" width = 240>](https://dartpad.dev/93387eee1891ffb02e435a7ce0a77730)
   
 
 ## Dart Samples
