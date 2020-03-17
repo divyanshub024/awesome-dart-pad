@@ -75,7 +75,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
   
-  - [Animated List App](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d) by [Ayush Kumar Shaw](https://github.com/aksayushx) (15/03/2020)
+- [Animated List App](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d) by [Ayush Kumar Shaw](https://github.com/aksayushx) (15/03/2020)
   
   [<img src="/art/AnimatedList.gif" width=240>](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d)
 
