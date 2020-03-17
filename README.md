@@ -75,4 +75,9 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
 
+
+- [BooleanGame](https://dartpad.dev/eecdf2d7f02b8a620d26e18d378a3e3c) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/eecdf2d7f02b8a620d26e18d378a3e3c) (17/03/2020)
+
+ [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/boolean_game.gif" width=240>](https://dartpad.dev/eecdf2d7f02b8a620d26e18d378a3e3c)
+
 ## Dart Samples
