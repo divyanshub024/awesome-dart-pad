@@ -81,4 +81,4 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Dart Samples
 
-- [Class](https://dartpad.dev/ac8ede647310d00f2f1c107945d81e7c) by [Ayush Nishad] (https://github.com/ayushnishad) (16/3/2020)
+- [Class](https://dartpad.dev/ac8ede647310d00f2f1c107945d81e7c) by [Ayush Nishad](https://github.com/ayushnishad) (16/3/2020)
