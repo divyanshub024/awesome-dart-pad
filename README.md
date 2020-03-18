@@ -74,12 +74,13 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
   
-- [Paint](https://dartpad.dev/a26d64f9f6805cc09dfa0743b10ae8b6) by [Ayush Nishad](https://github.com/ayushnishad)(15/03/2020)
-  
-  [<img src = "/art/paint.gif" width=240>](https://dartpad.dev/a26d64f9f6805cc09dfa0743b10ae8b6)
-
 - [Animated List App](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d) by [Ayush Kumar Shaw](https://github.com/aksayushx) (15/03/2020)
   
   [<img src="/art/AnimatedList.gif" width=240>](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d)
+  
+- [Paint](https://dartpad.dev/a26d64f9f6805cc09dfa0743b10ae8b6) by [Ayush Nishad](https://github.com/ayushnishad)(15/03/2020)
+ 
+ [<img src = "/art/paint.gif" width=240>](https://dartpad.dev/a26d64f9f6805cc09dfa0743b10ae8b6)
+
  
 ## Dart Samples
