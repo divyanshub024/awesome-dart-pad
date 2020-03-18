@@ -77,6 +77,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Dart Samples
 
-- [Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
+- [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
 
   [<img src="/art/PyramidPattern.PNG" width=240>](https://dartpad.dev/211761dbebee7c170cee8bc98d2314bc)
