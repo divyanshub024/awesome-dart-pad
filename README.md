@@ -76,3 +76,5 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
 
 ## Dart Samples
+
+- [Class](https://dartpad.dev/ac8ede647310d00f2f1c107945d81e7c) by [Ayush Nishad](https://github.com/ayushnishad) (16/3/2020)
