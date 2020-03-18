@@ -79,4 +79,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/AnimatedList.gif" width=240>](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d)
 
+- [Sample ID Card App](https://dartpad.dev/cc6675c13d546c9c80f11bbb943c8551) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (16/03/2020)
+  
+  [<img src="/art/card.png" width=240>](https://dartpad.dev/cc6675c13d546c9c80f11bbb943c8551)
+
 ## Dart Samples
