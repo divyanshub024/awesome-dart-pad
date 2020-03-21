@@ -80,4 +80,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
  [<img src="/art/boolean_game.gif" width=240>](https://dartpad.dev/eecdf2d7f02b8a620d26e18d378a3e3c)
 
+
+
+ - [ColorApp](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/cd3b46d3331644c21fe1e62165aa4bac) (21/03/2020)
+
+ [<img src="/art/color_app.gif" width=240>](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac)
+
 ## Dart Samples
