@@ -75,4 +75,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
 
+- [Hero Animation](https://dartpad.dev/6beced254eb0e6a28071e6e7da3bf898) by [Ajay Singh](https://github.com/AjayThakur12) (21/03/2020)
+  
+  [<img src="https://user-images.githubusercontent.com/29337604/77223757-65be1580-6b85-11ea-9660-c125019f9f73.gif" width=240>](https://dartpad.dev/6beced254eb0e6a28071e6e7da3bf898)
+  
 ## Dart Samples
