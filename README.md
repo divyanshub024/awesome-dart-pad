@@ -90,7 +90,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
-  - [ColorApp](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/cd3b46d3331644c21fe1e62165aa4bac) (21/03/2020)
+  - [Color App](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/cd3b46d3331644c21fe1e62165aa4bac) (21/03/2020)
 
  [<img src="/art/color_app.gif" width=240>](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac)
 
