@@ -90,6 +90,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
+- [Restaurant Food Menu App using Slivers](http://dartpad.dev/0aeb2c0eab7016c82fd62becda368aa5) by [Tushar Ojha](https://github.com/tusharojha)(24/03/2020)
+
+[<img src = "/art/restaurant_menu_app.gif" width=240>](http://dartpad.dev/0aeb2c0eab7016c82fd62becda368aa5)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
