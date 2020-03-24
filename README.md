@@ -92,7 +92,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
--[Shine Flash](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5) by [Sunday Emmanuel](https://github.com/nuelsoft) (24/03/2020)
+- [Shine Flash](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5) by [Sunday Emmanuel](https://github.com/nuelsoft) (24/03/2020)
 
  [<img src="https://github.com/nuelsoft/awesome-dart-pad/blob/master/art/shine_flash.gif" width=240>](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5)
 
