@@ -26,9 +26,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 ## Flutter Samples
 
- [<img src="https://github.com/nuelsoft/awesome-dart-pad/blob/master/art/shine_flash.gif" width=240>]
--[Shine Flash](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5) by [Sunday Emmanuel](https://github.com/nuelsoft) (24/03/2020)
 
+ 
 - [Tic-Tac-Toe Game](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752) by [Divyanshu Bhargava](https://github.com/divyanshub024) (25/12/2019)
 
  [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/tic-tac-toe.gif" width=240>](https://dartpad.dev/d0cc86ebee39474f97d3c079c7437752)
@@ -92,6 +91,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Particle](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb) by [Ayush Nishad](https://github.com/ayushnishad)(16/03/2020)
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
+
+-[Shine Flash](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5) by [Sunday Emmanuel](https://github.com/nuelsoft) (24/03/2020)
+
+ [<img src="https://github.com/nuelsoft/awesome-dart-pad/blob/master/art/shine_flash.gif" width=240>](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5)
 
 ## Dart Samples
 
