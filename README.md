@@ -100,7 +100,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
 - [Dragit](https://dartpad.dev/24541d367d19245d691f424ef14d98e9) by [Sivanandh PP](https://github.com/Sivanandhpp)
 
-  [<img src = "/art/dragit.gif" width=240>](https://dartpad.dev/24541d367d19245d691f424ef14d98e9)
+  [<img src = "/art/dragit.png" width=240>](https://dartpad.dev/24541d367d19245d691f424ef14d98e9)
 
 ## Dart Samples
 
