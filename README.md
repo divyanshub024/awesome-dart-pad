@@ -89,6 +89,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Particle](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb) by [Ayush Nishad](https://github.com/ayushnishad)(16/03/2020)
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
+  
+- [Flutter Expression Calculator](https://dartpad.dev/9a6a5305f13c687e6d1e162a7f159875) by [Shehriyar Shariq](https://github.com/ShehriyarShariq)(26/03/2020)
+ 
+  [<img src = "/art/flutter_calculator.png" width=240>](https://dartpad.dev/9a6a5305f13c687e6d1e162a7f159875)
 
 ## Dart Samples
 
