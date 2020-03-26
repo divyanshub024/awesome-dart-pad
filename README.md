@@ -90,6 +90,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
+- [Dynamic Theme](https://dartpad.dev/9abeece87fbd65cf36cf50084b91f5fc) by [Rahul Chandra](https://github.com/irahulcse)(26/03/2020)
+
+  [<img src = "/art/dynamic_theme" width=240>](http://dartpad.dev/9abeece87fbd65cf36cf50084b91f5fc)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
