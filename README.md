@@ -90,6 +90,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
+- [Todo app](https://gist.github.com/fayaz07/16c9149a3775c6c289625b89d10c62ef) by [Mohammad Fayaz](https://github.com/fayaz07) 
+
+  [<img src = "/art/todo.gif" width=240>](https://dartpad.dev/embed-flutter.html?id=16c9149a3775c6c289625b89d10c62ef)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
