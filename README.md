@@ -90,7 +90,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
-- [Flutter Pagination Sample](https://dartpad.dev/68b5684bc2e9669563c4470aebc56165) by [Ayodeji Fabusuyi](https://github.com/thedejifab)(27/03/2020)
+- [Flutter Pagination Sample](https://dartpad.dev/68b5684bc2e9669563c4470aebc56165) by [Ayodeji Fabusuyi](https://github.com/thedejifab) (27/03/2020)
 
 ## Dart Samples
 
