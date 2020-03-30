@@ -92,7 +92,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
 - [Dynamic Theme](https://dartpad.dev/9abeece87fbd65cf36cf50084b91f5fc) by [Rahul Chandra](https://github.com/irahulcse)(26/03/2020)
 
-  [<img src = "/art/dynamic_theme.gif" width=240>](http://dartpad.dev/9abeece87fbd65cf36cf50084b91f5fc)
+  [<img src = "/art/dynamic_theme.gif" width=240>](https://dartpad.dev/4ffc9c4a0520ecb48e7c35a7983a7df3)
 
 ## Dart Samples
 
