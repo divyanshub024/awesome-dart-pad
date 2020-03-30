@@ -90,6 +90,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
 
+- [Line Coding](https://dartpad.dev/b63204fce7e274202bf9b4abdc864039) by [Souvik Biswas](https://github.com/sbis04) (19/03/2020)
+
+  [<img src = "/art/line_coding.png" width=240>](https://dartpad.dev/b63204fce7e274202bf9b4abdc864039)
+
 - [Expanding Button](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc) by [Abhishek Upmanyu](https://github.com/abhishekUpmanyu) (18/03/2020)
 
   [<img src = "/art/expanding_button.gif" width=240>](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc)
