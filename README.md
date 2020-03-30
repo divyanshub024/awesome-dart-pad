@@ -94,6 +94,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src = "/art/line_coding.png" width=240>](https://dartpad.dev/b63204fce7e274202bf9b4abdc864039)
 
+- [Expanding Button](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc) by [Abhishek Upmanyu](https://github.com/abhishekUpmanyu) (18/03/2020)
+
+  [<img src = "/art/expanding_button.gif" width=240>](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
