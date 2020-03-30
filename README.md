@@ -125,6 +125,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Color App](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/cd3b46d3331644c21fe1e62165aa4bac) (21/03/2020)
 
  [<img src="/art/color_app.gif" width=240>](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac)
+ 
+ - [Simple Sliding Side Menu UI](https://dartpad.dev/7655578763c18cce47980c82b5d2a872) by [Sandeep Dutta](https://github.com/sandeepmaxpayne) (30/3/2020)
+ 
+ [<img src = "/art/sliding-ui.gif" width=240>](https://dartpad.dev/7655578763c18cce47980c82b5d2a872)
 
 ## Dart Samples
 
