@@ -122,6 +122,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
   
   [<img src = "/art/Todo.gif" width=240>](https://dartpad.dev/26acf19d041dc05d1dd22b5fed5dd0e3)
 
+- [Color App](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/cd3b46d3331644c21fe1e62165aa4bac) (21/03/2020)
+
+ [<img src="/art/color_app.gif" width=240>](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
