@@ -97,6 +97,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Expanding Button](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc) by [Abhishek Upmanyu](https://github.com/abhishekUpmanyu) (18/03/2020)
 
   [<img src = "/art/expanding_button.gif" width=240>](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc)
+  
+- [Restaurant Food Menu App using Slivers](http://dartpad.dev/0aeb2c0eab7016c82fd62becda368aa5) by [Tushar Ojha](https://github.com/tusharojha)(24/03/2020)
+
+[<img src = "/art/restaurant_menu_app.gif" width=240>](http://dartpad.dev/0aeb2c0eab7016c82fd62becda368aa5)
 
 ## Dart Samples
 
