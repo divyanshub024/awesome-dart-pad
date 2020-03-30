@@ -73,6 +73,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Matching the Pictures Game](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f) by [Sanskar Tiwari](https://github.com/theindianappguy) (09/03/2020)
   
   [<img src="/art/matchit.gif" width=240>](https://dartpad.dev/482dbd401031ab9f74b0fa3de705ad2f)
+
+- [Quizzler App](https://dartpad.dev/93387eee1891ffb02e435a7ce0a77730) by [Alisha Shaw](https://github.com/alishashaw439) (16/03/2020)
+
+  [<img src = "https://user-images.githubusercontent.com/43449528/76777211-de138800-67cd-11ea-8228-f4af25ce8c5d.gif" width = 240>](https://dartpad.dev/93387eee1891ffb02e435a7ce0a77730)
   
 - [Animated List App](https://dartpad.dev/cba4f1ce21bb64938a9813cc9128e23d) by [Ayush Kumar Shaw](https://github.com/aksayushx) (15/03/2020)
   
@@ -90,12 +94,41 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
  
   [<img src = "/art/particle.gif" width=240>](http://dartpad.dev/6613d586f958bf692f17b4407fe4e2cb)
   
-  
 - [Silver App Bar](https://dartpad.dev/adfba04bb1586143f488e42dd2e788f5) by [Sivanandh PP](https://github.com/Sivanandhpp)(30/03/2020)
 
   [<img src = "/art/silverapp.png" width=240>](https://dartpad.dev/0cdaf0608ac6111bdb4d06ad36c25f26)
+   
+- [Spinner Game](https://dartpad.dev/722bf4b62bb97396abdda450e7a29365) by [Abdullah Deshmukh](https://github.com/abd99) (25/03/2020)
   
+  [<img src="/art/SpinnerGame.gif" width="240">](https://dartpad.dev/722bf4b62bb97396abdda450e7a29365)
 
+- [Line Coding](https://dartpad.dev/b63204fce7e274202bf9b4abdc864039) by [Souvik Biswas](https://github.com/sbis04) (19/03/2020)
+
+  [<img src = "/art/line_coding.png" width=240>](https://dartpad.dev/b63204fce7e274202bf9b4abdc864039)
+
+- [Expanding Button](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc) by [Abhishek Upmanyu](https://github.com/abhishekUpmanyu) (18/03/2020)
+
+  [<img src = "/art/expanding_button.gif" width=240>](https://dartpad.dev/cec37af3a8d5ea5886b28c2148eff3cc)
+  
+- [Restaurant Food Menu App using Slivers](http://dartpad.dev/0aeb2c0eab7016c82fd62becda368aa5) by [Tushar Ojha](https://github.com/tusharojha)(24/03/2020)
+
+[<img src = "/art/restaurant_menu_app.gif" width=240>](http://dartpad.dev/0aeb2c0eab7016c82fd62becda368aa5)
+
+- [Bottom Navigation Bar](https://dartpad.dev/df56060478dd49898e398092e7760dad) by [Manas Gupta](https://github.com/guptamanas1998)(28/03/2020)
+ 
+  [<img src = "/art/bottom_navbar.gif" width=240>](https://dartpad.dev/df56060478dd49898e398092e7760dad)
+
+- [Postman](https://dartpad.dev/9020705fbf898474c075c3aeddffba61) by [Manas Gupta](https://github.com/guptamanas1998)(28/03/2020)
+ 
+  [<img src = "/art/postman.gif" width=240>](https://dartpad.dev/9020705fbf898474c075c3aeddffba61)
+
+- [To-Do](https://dartpad.dev/26acf19d041dc05d1dd22b5fed5dd0e3) by [Rohan Ashra](https://gist.github.com/TheCoolNerd27)(22/03/2020)
+  
+  [<img src = "/art/Todo.gif" width=240>](https://dartpad.dev/26acf19d041dc05d1dd22b5fed5dd0e3)
+
+- [Color App](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac) by [Amadi Austin Chukwuemeka](https://gist.github.com/rexsteroxy/cd3b46d3331644c21fe1e62165aa4bac) (21/03/2020)
+
+ [<img src="/art/color_app.gif" width=240>](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac)
 
 ## Dart Samples
 
