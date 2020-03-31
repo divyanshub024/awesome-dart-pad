@@ -133,6 +133,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Buttons-Flutter-web](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53) by [Vishwesh Soni](https://github.com/vishweshsoni)(31/03/2020)
 
   [<img src = "/art/buttons.gif" width=240>](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53)
+ 
+- [Streams](https://dartpad.dev/b38bbafcb81d87adb608cb12e3a282b4) by [Muhammad Usama](https://github.com/MuhammadUsama100)(23/03/2020)
+
+  [<img src = "/art/streams.gif" width=240>](https://dartpad.dev/b38bbafcb81d87adb608cb12e3a282b4)
 
 ## Dart Samples
 
