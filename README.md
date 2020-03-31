@@ -126,9 +126,14 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
  [<img src="/art/color_app.gif" width=240>](https://dartpad.dev/cd3b46d3331644c21fe1e62165aa4bac)
 
+- [Buttons-Flutter-web](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53) by [Vishwesh Soni](https://github.com/vishweshsoni)(31/03/2020)
+
+  [<img src = "/art/buttons.gif" width=240>](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53)
+
 - [Todo app](https://dartpad.dev/16c9149a3775c6c289625b89d10c62ef) by [Mohammad Fayaz](https://github.com/fayaz07) (30/03/2020)
 
   [<img src = "/art/todo.gif" width=240>](https://dartpad.dev/16c9149a3775c6c289625b89d10c62ef)
+
 
 ## Dart Samples
 
