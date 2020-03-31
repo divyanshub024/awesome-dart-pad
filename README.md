@@ -130,7 +130,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src = "/art/buttons.gif" width=240>](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53)
   
-  - [Playing-with-Flex](https://dartpad.dev/2889325c3f7b0ad13a6950ad065f7bbe) by [Sarang Pal](https://github.com/sarannng)(31/03/2020)
+- [Playing-with-Flex](https://dartpad.dev/2889325c3f7b0ad13a6950ad065f7bbe) by [Sarang Pal](https://github.com/sarannng)(31/03/2020)
  
  [<img src = "/art/flexplayer.gif" width=240>](https://dartpad.dev/2889325c3f7b0ad13a6950ad065f7bbe)
 
