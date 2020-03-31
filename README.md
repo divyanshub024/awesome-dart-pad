@@ -130,6 +130,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
  [<img src="/art/parallax.gif" width=500>](https://dartpad.dev/5e0968221c4fb9f42c95f886153ce762)
 
+- [Buttons-Flutter-web](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53) by [Vishwesh Soni](https://github.com/vishweshsoni)(31/03/2020)
+
+  [<img src = "/art/buttons.gif" width=240>](https://dartpad.dev/214eee8a820ba4bcff73279a93281a53)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
