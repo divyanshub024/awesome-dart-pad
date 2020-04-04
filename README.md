@@ -41,8 +41,8 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Flutter Piano](https://dartpad.dev/8cb7652d9c05650c599a0610523266ca) by [Rody Davis](https://github.com/rodydavis) (12/01/2020)
  
   [<img src="https://github.com/divyanshub024/awesome-dart-pad/blob/master/art/flutter_piano.png" width=240>](https://dartpad.dev/8cb7652d9c05650c599a0610523266ca)
+
 - [Image Blur App](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c) by [Yashvardhan Awasthi](https://github.com/AlphaArtrem) (27/02/2020)
- 
   [<img src="https://github.com/AlphaArtrem/awesome-dart-pad/blob/master/art/blur_app.png" width=240>](https://dartpad.dev/f5d6f31b4642985070d1d7af68a2f87c)
   
 - [Animals Heads-Up](https://dartpad.dev/fdb0b2ce4cbcd8900d38127d66aa5135) by [Jaideep Prasad](https://github.com/jddeep)
@@ -137,6 +137,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Reactive-ListView](https://dartpad.dev/d0dcc4ce4ec83e63a9816d4a6e0f3fed) by [Yuris Cakranegara](https://https://github.com/yurisasc)(04/01/2020)
 
   [<img src = "/art/ReactiveListView.gif" width="240">](https://dartpad.dev/d0dcc4ce4ec83e63a9816d4a6e0f3fed)
+
+- [Shine Flash](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5) by [Sunday Emmanuel](https://github.com/nuelsoft) (24/03/2020)
+
+ [<img src="https://github.com/nuelsoft/awesome-dart-pad/blob/master/art/shine_flash.gif" width=240>](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5)
 
 ## Dart Samples
 
