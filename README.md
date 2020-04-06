@@ -134,7 +134,6 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 
   [<img src = "/art/todo.gif" width=240>](https://dartpad.dev/16c9149a3775c6c289625b89d10c62ef)
 
-
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
