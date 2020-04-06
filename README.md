@@ -145,6 +145,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Shine Flash](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5) by [Sunday Emmanuel](https://github.com/nuelsoft) (24/03/2020)
 
  [<img src="https://github.com/nuelsoft/awesome-dart-pad/blob/master/art/shine_flash.gif" width=240>](http://dartpad.dev/a28330aae65fb0595e6055ff14e76bc5)
+ 
+- [Yeti](https://dartpad.dev/0b6247558705c2726f2ce5fb79deecec) by [Mariano Zorrilla](https://gist.github.com/mkiisoft) (5/04/2020)
+
+ [<img src="/art/yeti.gif" width=500>](https://dartpad.dev/0b6247558705c2726f2ce5fb79deecec)
 
 ## Dart Samples
 
