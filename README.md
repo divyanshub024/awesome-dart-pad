@@ -158,6 +158,10 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Dash Bird](https://dartpad.dev/2e85c91ef471df1868cdd3dee03d346c) by [Yash Paneliya](https://github.com/yashpaneliya) (03/05/2020)
   [<img src="/art/dash2.JPG">](https://dartpad.dev/2e85c91ef471df1868cdd3dee03d346c)
 
+- [Dynamic Theme](https://dartpad.dev/20a6b746cd9ed4453c05e995551f3488) by [Rahul Chandra](https://github.com/irahulcse)(26/03/2020)
+
+  [<img src = "/art/dynamic_theme.gif" width=240>](https://dartpad.dev/20a6b746cd9ed4453c05e995551f3488)
+
 ## Dart Samples
 
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
