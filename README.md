@@ -163,3 +163,7 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 - [Pyramid Pattern](http://dartpad.dev/211761dbebee7c170cee8bc98d2314bc) by [Ayush Nishad](https://github.com/ayushnishad) (15/3/2020)
 
   [<img src="/art/PyramidPattern.PNG" width=240>](https://dartpad.dev/211761dbebee7c170cee8bc98d2314bc)
+  
+- [Flutter Logo in Dart Pattern](https://dartpad.dartlang.org/c758abd78e9ee7a55adcf8418c901575) by [Lokesh Jangid](https://github.com/lkrjangid1) (08/1/2021)
+  
+   [<img src="https://raw.githubusercontent.com/lkrjangid1/awesome-dart-pad/master/art/Screenshot%202021-01-07%20223315%20(2).png" width=240>](https://dartpad.dartlang.org/c758abd78e9ee7a55adcf8418c901575)
